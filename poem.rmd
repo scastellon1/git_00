@@ -1,7 +1,7 @@
 ---
 title: "git_00"
 author: "Sophia Castellon"
-date: "Sept 12, 2024"
+date: "Sept 12, 2024" 
 output: html_document
 ---
 
@@ -52,7 +52,7 @@ Had got no business to be there
       "To come and spoil the fun."    
 
 ## Last Verse
-<!--Put a short poem of your choice 8-20 lines,here!-->
+<!--Put a short poem of your choice 8-20 lines,here!-->   
 
 What direction does your sentence move: you belonging to the land or the land belonging to you.     
 
@@ -72,5 +72,5 @@ When one points behind the shape of one body, there ever is another there.
 
 Where is the line between yours and ours.     
 
-Depends on whom you ask. Depends on where you stand.     
+Depends on whom you ask. Depends on where you stand.          
 
